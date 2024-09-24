@@ -5,6 +5,11 @@ Date: 24SEP2024
     - standardize code formatting
     - updated license year
     - updated mod description
+  Locale:
+    - added German (de) locale from Crowdin
+    - added Polish (pl) locale from Crowdin
+    - added Russian (ru) locale from Crowdin
+    - added Ukrainian (uk) locale from Crowdin
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 09MAY2022
