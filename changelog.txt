@@ -1,22 +1,23 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: ????
+  Changes:
+---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 09MAY2022
   Changes:
     - added settings to enable/disable certain categories of machines
-    
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 21APR2022
   Changes:
     - added compatibility for mods who use a string value for emissions_per_minute
     - added "Air Quality Control" startup setting to modify how much the electric machine emissions are reduced by
-
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 30JAN2022
   Changes:
     - fix to allow electric buildings who consume pollution to still work as intended
-
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 03DEC2021
