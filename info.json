@@ -1,13 +1,13 @@
 {
-  "name": "eco-friendly-electric-machines",
-  "version": "0.0.5",
-  "title": "Eco-Friendly Electric Machines",
-  "author": "asher_sky",
-  "contact": "",
-  "homepage": "",
-  "description": "Electric machines don't produce pollution",
-  "factorio_version": "1.1",
-  "dependencies": [
-	"base"
-	]
+    "name": "eco-friendly-electric-machines",
+    "version": "0.0.6",
+    "title": "Eco-Friendly Electric Machines",
+    "author": "asher_sky",
+    "contact": "",
+    "homepage": "",
+    "description": "Electric machines don't produce pollution",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base"
+    ]
 }
