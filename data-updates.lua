@@ -31,10 +31,10 @@ for each, type in pairs(data.raw) do
     for every, prototype in pairs(type) do
         if prototype.energy_source and prototype.energy_source.type == "electric" then
             if prototype.energy_source.emissions_per_minute then
-                local emissions_per_minute = tonumber(prototype.energy_source.emissions_per_minute)
-                if emissions_per_minute and emissions_per_minute > 0 then
+                local pollution = prototype.energy_source.emissions_per_minute["pollution"]
+                if pollution and pollution > 0 then
                     if not is_blacklisted(prototype) then
-                        prototype.energy_source.emissions_per_minute = emissions_per_minute * multiplier
+                        prototype.energy_source.emissions_per_minute["pollution"] = pollution * multiplier
                     end
                 end
             end
