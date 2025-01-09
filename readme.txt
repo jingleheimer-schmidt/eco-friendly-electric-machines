@@ -7,7 +7,7 @@ Certain machine categories (chemistry, mining, assembling, smelting) may be indi
 
 ---------------------
 # Translation
-Help translate Automatic Discharge Defense to more languages: https://crowdin.com/project/factorio-mods-localization
+Help translate Eco-Friendly Electric Machines to more languages: https://crowdin.com/project/factorio-mods-localization
 Currently available locale:
 🇺🇸 English (en), 🇩🇪 German (de), 🇵🇱 Polish (pl), 🇷🇺 Russian (ru), 🇺🇦 Ukrainian (uk)
 
