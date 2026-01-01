@@ -17,5 +17,5 @@ There are currently no known mod compatibility issues. To report a compatibility
 
 ---------------------
 # License
-Eco-Friendly Electric Machines © 2021-2024 by asher_sky is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. 
+Eco-Friendly Electric Machines © 2021-2026 by asher_sky is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/

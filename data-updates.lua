@@ -27,8 +27,8 @@ local function is_blacklisted(prototype)
     return output
 end
 
-for each, type in pairs(data.raw) do
-    for every, prototype in pairs(type) do
+for _, prototype_group in pairs(data.raw) do
+    for _, prototype in pairs(prototype_group) do
         if prototype.energy_source and prototype.energy_source.type == "electric" then
             if prototype.energy_source.emissions_per_minute then
                 local pollution = prototype.energy_source.emissions_per_minute["pollution"]
